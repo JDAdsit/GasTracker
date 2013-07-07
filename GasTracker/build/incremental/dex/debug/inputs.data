@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373240091143 415 efa471bd9d13c9cec9fa690d8df2f8945308492e C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$layout.class
+1373237963282 484258 bd6479f5dd592790607e0504e66e0f31c2b4d308 C:\sites\android_projects\GasTrackerProject\GasTracker\libs\android-support-v4.jar
+1373240091147 400 6f49b546043f9b7d14afe992e49ea021a96ba0ca C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$menu.class
+1373238008092 473 8c9ecbd14acf1e49fbfd30f5e1e8fd3c5d4b83e6 C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$dimen.class
+1373240091158 717 09edc0874faf945314d4935e050216ff1cba485e C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R.class
+1373240091154 443 b6de4dd348e81f9c33d5e7d3e9f191537d2d50cc C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$style.class
+1373240091139 562 26be772e008844d7ad11469f6b38b27184b85857 C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$id.class
+1373238008078 825 4be9a51d1e2b9fa72932bb2bdb2ee14db5bf253d C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\MainActivity.class
+1373240091150 611 71dbbbd362682d5fdab7e8bc7bd337683c16c71f C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$string.class
+1373238008085 352 520acb1c1649236056c0e3cfc604f713545f71de C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$attr.class
+1373238008095 419 b1a10c0352892f3fc1c30e642a448e27aaff470d C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\R$drawable.class
+1373238008119 353 897bd38b919b48ff24ada6d979f3516165738b3d C:\sites\android_projects\GasTrackerProject\GasTracker\build\classes\debug\com\jdadsit\gastracker\BuildConfig.class

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="C:\sites\android_projects\GasTrackerProject\GasTracker\src\main\assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="C:\sites\android_projects\GasTrackerProject\GasTracker\src\debug\assets" />
+    </dataSet>
+
+</merger>
