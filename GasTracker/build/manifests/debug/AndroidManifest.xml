@@ -10,6 +10,10 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
+        <activity android:label="@string/title_activity_display_message" android:name="com.jdadsit.gastracker.DisplayMessageActivity" android:parentActivityName="com.jdadsit.gastracker.MainActivity">
+            <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.jdadsit.gastracker.MainActivity"/>
+        </activity>
+        <activity android:name="com.jdadsit.gastracker.DisplayMessageActivity"/>
     </application>
 
 </manifest>

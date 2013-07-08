@@ -50,11 +50,12 @@
         android:hint="@string/box_four" />
 
     <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/box_four"
-            android:layout_marginTop="15dp"
-            android:text="@string/button_send"
-            android:id="@+id/button"/>
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/box_four"
+        android:layout_marginTop="15dp"
+        android:text="@string/button_send"
+        android:id="@+id/button"
+        android:onClick="sendData" />
 
 </RelativeLayout>

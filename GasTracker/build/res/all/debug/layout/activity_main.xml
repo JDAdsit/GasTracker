@@ -11,7 +11,7 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="date"
+        android:inputType="phone"
         android:ems="10"
         android:id="@+id/box_one"
         android:layout_alignParentTop="true"
@@ -32,7 +32,7 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
+        android:inputType="phone"
         android:ems="10"
         android:id="@+id/box_three"
         android:layout_below="@+id/box_two"
@@ -42,7 +42,7 @@
     <EditText
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:inputType="numberDecimal"
+        android:inputType="phone"
         android:ems="10"
         android:id="@+id/box_four"
         android:layout_below="@+id/box_three"
@@ -50,11 +50,12 @@
         android:hint="@string/box_four" />
 
     <Button
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@+id/box_four"
-            android:layout_marginTop="15dp"
-            android:text="@string/button_send"
-            android:id="@+id/button"/>
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/box_four"
+        android:layout_marginTop="15dp"
+        android:text="@string/button_send"
+        android:id="@+id/button"
+        android:onClick="sendData" />
 
 </RelativeLayout>

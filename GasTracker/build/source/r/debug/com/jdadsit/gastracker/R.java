@@ -39,6 +39,7 @@ public final class R {
         public static final int box_three=0x7f050004;
         public static final int box_two=0x7f050005;
         public static final int button_send=0x7f050006;
+        public static final int title_activity_display_message=0x7f050007;
     }
     public static final class style {
         /** 

@@ -15,5 +15,7 @@
     </string>
     <string name="button_send" >Just filled tank
     </string>
+    <string name="title_activity_display_message">My message
+    </string>
 
 </resources>
