@@ -24,10 +24,20 @@
                 qualifiers="xxhdpi"
                 type="drawable" />
             <file
+                name="activity_database"
+                path="C:\sites\android_projects\GasTrackerProject\GasTracker\src\main\res\layout\activity_database.xml"
+                qualifiers=""
+                type="layout" />
+            <file
                 name="activity_main"
                 path="C:\sites\android_projects\GasTrackerProject\GasTracker\src\main\res\layout\activity_main.xml"
                 qualifiers=""
                 type="layout" />
+            <file
+                name="database"
+                path="C:\sites\android_projects\GasTrackerProject\GasTracker\src\main\res\menu\database.xml"
+                qualifiers=""
+                type="menu" />
             <file
                 name="main"
                 path="C:\sites\android_projects\GasTrackerProject\GasTracker\src\main\res\menu\main.xml"
@@ -53,6 +63,8 @@
                 <string name="app_name" >Gas Tracker
                 </string>
                 <string name="box_three" >Volume
+                </string>
+                <string name="title_activity_database" >DatabaseActivity
                 </string>
                 <string name="hello_world" >Hello world!
                 </string>

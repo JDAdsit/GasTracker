@@ -14,6 +14,8 @@
             <meta-data android:name="android.support.PARENT_ACTIVITY" android:value="com.jdadsit.gastracker.MainActivity"/>
         </activity>
         <activity android:name="com.jdadsit.gastracker.DisplayMessageActivity"/>
+        <activity android:label="@string/title_activity_database" android:name="com.jdadsit.gastracker.DatabaseActivity">
+        </activity>
     </application>
 
 </manifest>

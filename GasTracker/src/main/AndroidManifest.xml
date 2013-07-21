@@ -30,7 +30,11 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.jdadsit.gastracker.MainActivity" />
         </activity>
-        <activity android:name=".DisplayMessageActivity"/>
+        <activity android:name="com.jdadsit.gastracker.DisplayMessageActivity" />
+        <activity
+            android:name="com.jdadsit.gastracker.DatabaseActivity"
+            android:label="@string/title_activity_database" >
+        </activity>
     </application>
 
 </manifest>

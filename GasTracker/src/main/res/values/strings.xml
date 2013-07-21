@@ -1,21 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name" >Gas Tracker
-    </string>
-    <string name="action_settings" >Settings
-    </string>
-    <string name="box_one" >Date
-    </string>
-    <string name="box_two" >Milage
-    </string>
-    <string name="box_three" >Volume
-    </string>
-    <string name="box_four" >Cost
-    </string>
-    <string name="button_send" >Just filled tank
-    </string>
-    <string name="title_activity_display_message">My message
-    </string>
+    <string name="app_name">Gas Tracker</string>
+    <string name="action_settings">Settings</string>
+    <string name="box_one">Date</string>
+    <string name="box_two">Milage</string>
+    <string name="box_three">Volume</string>
+    <string name="box_four">Cost</string>
+    <string name="button_send">Just filled tank</string>
+    <string name="title_activity_display_message">My message</string>
+    <string name="title_activity_database">DatabaseActivity</string>
+    <string name="hello_world">Hello world!</string>
 
 </resources>

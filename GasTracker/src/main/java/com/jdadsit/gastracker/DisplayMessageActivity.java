@@ -29,7 +29,7 @@ public class DisplayMessageActivity extends Activity {
         textView.setTextSize(30);
         textView.setText(message);
 
-        // Set the text view as teh activity layout
+        // Set the text view as the activity layout
         setContentView(textView);
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.HONEYCOMB) {

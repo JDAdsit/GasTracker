@@ -17,5 +17,6 @@ public class Calculation {
 
     public static float milesPerDollar(int miles, float dollars) {
         // calculate how many miles the car went on one dollar
+        return (miles / dollars);
     }
 }

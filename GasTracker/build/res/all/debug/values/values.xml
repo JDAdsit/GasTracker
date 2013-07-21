@@ -11,6 +11,8 @@
     <string name="box_three">Volume</string>
     <string name="box_two">Milage</string>
     <string name="button_send">Just filled tank</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_database">DatabaseActivity</string>
     <string name="title_activity_display_message">My message</string>
 
     <style name="AppBaseTheme" parent="android:Theme.Light">
